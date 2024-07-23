@@ -1,11 +1,12 @@
 # Olá Eu sou Carlos Eduardo
 
-  <a href="[https://github.com/carlos-santos1504">
-  
+<div>
+<a href="[https://github.com/carlos-santos1504">
     
   <img alt="my stats" height="145em" src="https://github-readme-stats.vercel.app/api?username=carlos-santos1504&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img alt="top langs" height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-santos1504&layout=compact&langs_count=16&theme=dark"/>
-    
+
+</div>    
 ##
 
 <div style="display: inline_block"><br>
