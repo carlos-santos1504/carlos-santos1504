@@ -8,7 +8,6 @@
         <img alt="top langs" height="147em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-santos1504&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-
 ##
 
 <div style="display: inline_block"><br>
