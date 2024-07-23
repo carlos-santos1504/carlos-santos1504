@@ -7,9 +7,8 @@
   <img alt="top langs" height="147em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-santos1504&layout=compact&langs_count=16&theme=dark"/>
   
 </div>
-<div>
-    ![snake gif](https://github.com/carlos-santos1504/carlos-santos1504/blob/output/github-contribution-grid-snake.gif
-</div>
+
+![snake gif](https://github.com/carlos-santos1504/carlos-santos1504/blob/output/github-contribution-grid-snake.gif
 
 ##
 
