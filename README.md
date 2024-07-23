@@ -5,9 +5,6 @@
     
   <img alt="my stats" height="147em" src="https://github-readme-stats.vercel.app/api?username=carlos-santos1504&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img alt="top langs" height="147em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-santos1504&layout=compact&langs_count=16&theme=dark"/>
-
-  ![Snake animation](https://github.com/carlos-santos1504/carlos-santos1504/blob/output/github-contribution-grid-snake.svg)
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=carlos-santos1504&repo=carlos-santos1504)](https://github.com/carlos-santos1504/carlos-santos1504)
     
 ##
 
