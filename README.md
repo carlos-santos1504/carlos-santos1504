@@ -8,7 +8,9 @@
   
 </div>
 
-![snake gif](https://github.com/carlos-santos1504/carlos-santos1504/blob/output/github-contribution-grid-snake.gif
+<div>
+    ![snake gif](https://github.com/carlos-santos1504/carlos-santos1504/blob/output/github-contribution-grid-snake.gif)
+</div>
 
 ##
 
