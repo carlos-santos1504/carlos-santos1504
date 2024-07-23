@@ -1,7 +1,4 @@
 # Olá Eu sou Carlos Eduardo
-
-- 💻 Hoje Trabalho como Analista de Suporte
-- 📚 Estudando Python
   
 <div>
   <a href="[https://github.com/carlos-santos1504">
