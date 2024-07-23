@@ -1,11 +1,13 @@
 # Olá Eu sou Carlos Eduardo
 
-![Snake animation](https://github.com/carlos-santos1504/carlos-santos1504/blob/output/github-contribution-grid-snake.svg)
-
 <div>
   <a href="[https://github.com/carlos-santos1504">
+  
+    
   <img alt="my stats" height="147em" src="https://github-readme-stats.vercel.app/api?username=carlos-santos1504&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img alt="top langs" height="147em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-santos1504&layout=compact&langs_count=16&theme=dark"/>
+
+  ![Snake animation](https://github.com/carlos-santos1504/carlos-santos1504/blob/output/github-contribution-grid-snake.svg)
 </div>
     
 ##
@@ -30,6 +32,3 @@
   <a href = "mailto:carlos.santos1504@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-eduardo-santos1504" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a  
 </div>
-<div>
-  ![Snake animation]
-<div>
