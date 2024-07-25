@@ -1,7 +1,7 @@
 # Olá Eu sou Carlos Eduardo
 
-<!--![snake gif](https://github.com/carlos-santos1504/carlos-santos1504/blob/output/github-contribution-grid-snake.gif)
-
+![snake gif](https://github.com/carlos-santos1504/carlos-santos1504/blob/output/github-contribution-grid-snake.gif)
+<!--
 <div>
     <a href="[https://github.com/carlos-santos1504">
         <img alt="my stats" height="147em" align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-santos1504&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
