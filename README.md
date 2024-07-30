@@ -1,6 +1,6 @@
 # Olá Eu sou Carlos Eduardo
 
-<!--![snake gif](https://github.com/carlos-santos1504/carlos-santos1504/blob/output/github-contribution-grid-snake.gif)-->
+![snake gif](https://github.com/carlos-santos1504/carlos-santos1504/blob/output/github-contribution-grid-snake.gif)
 
 <div>
     <a href="[https://github.com/carlos-santos1504">
